@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "flipr"]
+	path = flipr
+	url = https://github.com/permaverse/flipr
+[submodule "nevada"]
+	path = nevada
+	url = https://github.com/permaverse/nevada
